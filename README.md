@@ -1,4 +1,3 @@
-# Progress
 Personal Expense Tracker 
 
 Having a good spending habit is essential to maintaining a healthy personal financial status. To facilitate the process, a personal expense tracker may help, which is an application that helps users to keep track of their income and spendings, as well as allocating the money systemically for various purposes (e.g., saving, investment and charity). Using Python, we can implement a Personal Expense Tracker application. This program allows its user to input their income(s), spendings and other allocations. Here are the functions of the system: 
